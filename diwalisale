@@ -1,0 +1,6 @@
+git init 
+and then use
+
+git fetch url-to-repo branchname:refs/remotes/origin/branchname
+to fetch just that one branch into a local remote-tracking branch.
+
